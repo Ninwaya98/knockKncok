@@ -31,6 +31,12 @@ Everything lives in one file with three sections:
 
 Line `action` values control character position mid-conversation: `peek`, `peek-angry`, `walk-out`, `smirk`, `leave`, `slam`, `eyes`, `eyes-slam`.
 
+## Deployment
+
+- **GitHub repo:** https://github.com/Ninwaya98/knockKncok
+- **Hosted on Netlify** — auto-deploys when changes are pushed to `main`
+- To deploy: just `git add`, `git commit`, `git push origin main`
+
 ## Key constraints
 
 - Single `.html` file — keep everything inline, no external JS/CSS files.
